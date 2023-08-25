@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FolderLocker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FolderLocker_jar</output-path>
+    <root id="archive" name="FolderLocker.jar">
+      <element id="module-output" name="FolderLocker" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Project/Resources/Jar/JTattoo-1.6.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
